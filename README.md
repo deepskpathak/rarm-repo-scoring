@@ -29,6 +29,17 @@ Use it to answer questions like "which of our repos are ready for coding agents?
 
 ## Install
 
+### As a plugin (recommended)
+
+In Claude Code:
+
+```
+/plugin marketplace add deepskpathak/rarm-repo-scoring
+/plugin install rarm-repo-scoring@rarm-repo-scoring
+```
+
+### Manually
+
 Copy the skill into your personal or project skills directory:
 
 ```bash

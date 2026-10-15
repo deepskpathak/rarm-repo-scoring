@@ -1,0 +1,18 @@
+{
+  "name": "rarm-repo-scoring",
+  "description": "Score code repositories against the RARM rubric and assign AI coding-agent readiness tiers T0-T3, per repo or across an estate.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Deepak Kumar"
+  },
+  "homepage": "https://github.com/deepskpathak/rarm-repo-scoring",
+  "repository": "https://github.com/deepskpathak/rarm-repo-scoring",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-readiness",
+    "ai-agents",
+    "repository-assessment",
+    "developer-experience"
+  ]
+}
